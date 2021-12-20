@@ -28,7 +28,7 @@ ___
 
 ## Currently Learning
 
-- ⏭️ **NextJS** - to build ...
+- ⏭️ **NextJS** - to create performant applications and superfast static websites.
 - 🦾 **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be `learning` it. 
 ___
 
