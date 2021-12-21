@@ -4,12 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmongedev&layout=compact)](https://github.com/jesusmongedev/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesusmongedev)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmongedev)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 # Hey, I'm Jesús!
 
-I am a **Petroleum Engineer** who noticed the increase in **startups** and smart devices wordwide, for any **website** or commercial **application**, a `Frontend developer` is necessary. 👨‍💻
+I am a **Petroleum Engineer** who noticed the increase in **startups** and smart devices worldwide, for any **website** or commercial **application**, a `Frontend developer` is necessary. 👨‍💻
 
 👉 I'm currently aiming to **collaborate** in a **work team** in the **tech field**, to diagnose, analyze and deliver `solutions` that meet **user requirements**. 
 ___
