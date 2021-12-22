@@ -1,11 +1,14 @@
-![Jesus Monge GitHub Banner](https://i.imgur.com/Fy7dPNA.jpg)
+<a href="https://jmongedev.netlify.app/">
+  <img align="center" src="https://i.imgur.com/Fy7dPNA.jpg" alt="Jesus Monge GitHub Banner"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmongedev&show_icons=true&theme=react" alt="JesusMongeDev's GitHub stats"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmongedev&layout=compact" alt="Top Langs"/>
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusmongedev&show_icons=true&theme=react)](https://github.com/jesusmongedev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmongedev&layout=compact)](https://github.com/jesusmongedev/github-readme-stats)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmongedev)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- [![jmongedev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmongedev)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Hey, I'm Jesús!
 
