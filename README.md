@@ -24,11 +24,16 @@ I am a **Petroleum Engineer** who noticed the increase in **startups** and smart
 
 ## My Current Tech Stack
 
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwindcss Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
 
 ---
 
@@ -40,15 +45,22 @@ I am a **Petroleum Engineer** who noticed the increase in **startups** and smart
 ---
 
 <br />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmongedev&show_icons=true&theme=react" alt="JesusMongeDev's GitHub stats"/>
+
+<details>
+  <summary> GitHub Stats</summary>
+
+  <img align="center" alt="JesusMongeDev's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jesusmongedev&show_icons=true&hide_border=true&title_color=0571f8&icon_color=0571f8&bg_color=ffffff&text_color=0e2431" />
 </a>
-<br />
-<br />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmongedev&layout=compact" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmongedev" alt="Top Languages"/>
 </a>
+
+</details>
+
 <br />
+
+---
+
 <br />
 
 ![Ask-me-badge](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
